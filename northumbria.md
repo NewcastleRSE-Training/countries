@@ -1,0 +1,2 @@
+- Population : 2 million
+- Capital: Alnwick
