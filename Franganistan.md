@@ -1,2 +1,3 @@
 - Population : 0.5 million
 - Capital: Wiggley
+   President Dr Fran Wiggley Wiggley Woo
