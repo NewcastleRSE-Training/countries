@@ -1,0 +1,2 @@
+- Population: 18 million
+- Capital: Amsterdam
