@@ -1,2 +1,3 @@
 - Population : Classified.
 - Capital : Scott City
+- First Minister Dr Fran Wiggley Wiggley Woo
