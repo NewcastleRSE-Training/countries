@@ -1,0 +1,2 @@
+- Population : 50 million
+- Capital: Gibson City 
