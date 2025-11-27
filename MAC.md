@@ -1,0 +1,2 @@
+- Population :21.22 million
+- Capital: Scotland.
