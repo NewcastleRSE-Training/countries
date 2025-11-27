@@ -1,0 +1,2 @@
+- Population : 5.338m
+- Capital: Wellington
