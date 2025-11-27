@@ -1,0 +1,2 @@
+- Population : 0.5 million
+- Capital: Wiggley
