@@ -1,0 +1,2 @@
+- Population : Classified.
+- Capital : Scott City
