@@ -1,0 +1,2 @@
+- Population : 1,000
+- Capital: Happyville
