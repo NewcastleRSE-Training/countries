@@ -1,2 +1,0 @@
-- Population : 8.2 million
-- Capital: Somewhere in Greenland

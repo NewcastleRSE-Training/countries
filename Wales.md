@@ -1,2 +1,0 @@
-- Population : 3.164 million
-- Capital: Cardiff
