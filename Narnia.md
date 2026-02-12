@@ -1,2 +1,4 @@
 - Population: 25 million
 - Capital: Cair Paravel
+- Resident baddy: The White Witch
+- Resident hero: Aslan
