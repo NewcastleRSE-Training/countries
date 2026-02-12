@@ -1,0 +1,2 @@
+- Population : 58.9 million
+- Capital: Rome
