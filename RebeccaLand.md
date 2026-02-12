@@ -1,2 +1,3 @@
 - Population : 3 million
 - Capital: Allon
+- GDP per capita: £30000

@@ -2,4 +2,4 @@
 
 - Population : 2
 - Capital: HappyPlace
-- Tomasz
+- GDP per capita: £1.00
