@@ -1,0 +1,2 @@
+- Population : 3 million
+- Capital: Allon
