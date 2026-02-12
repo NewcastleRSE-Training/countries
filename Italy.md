@@ -1,2 +1,3 @@
 - Population : 58.9 million
 - Capital: Rome
+- GDP per capita: unknown so far
