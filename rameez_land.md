@@ -1,4 +1,5 @@
 #rameezland
 
-- Population : A lot! We rank #1
-- Capital: New Delhi
+- Population : A lot! World's a crazy place
+- Place : Popular
+* GDP per capita : Happiness index is better
