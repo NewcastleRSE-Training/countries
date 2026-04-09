@@ -5,7 +5,7 @@
 The Roman monetary system was one of the most sophisticated of the ancient world, evolving over centuries to support a vast empire.
 ![Emperor Aurelian](./Aurelian.jpg)
 
-## Early Period
+### Early Period
 - **Aes Grave**: Heavy bronze coins used in early Rome
 - **As**: Bronze unit, the basic denomination
 
