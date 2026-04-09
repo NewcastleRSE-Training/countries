@@ -1,0 +1,2 @@
+Capital: L
+Dish: thai

@@ -1,3 +1,4 @@
 # Country: Nicolandia
 ## Population: 100
-A sad, sad place to exist
+A wonderful place to live and thrive
+No boys allowed
