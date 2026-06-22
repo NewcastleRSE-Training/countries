@@ -18,4 +18,5 @@ Branch: Protection Rules
 - Require a pull rquest before merging
 - Require approvals = 1
 
-Add collaborators using https://github.com/NewcastleRSE-Training/AddCollaborators
+- Grant write access to learners using https://github.com/NewcastleRSE-Training/AddCollaborators
+- Instructors should be added as collaborators to the parent organisation of this repo and given admin on this repository.
