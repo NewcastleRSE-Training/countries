@@ -8,8 +8,8 @@ Countries:
 
 This repository has a protected main branch:
 Branch: Protection Rules
-	- Branch name pattern: main
-	- Require a pull rquest before merging
-	- Require approvals = 1
+- Branch name pattern: main
+- Require a pull rquest before merging
+- Require approvals = 1
 
 Add collaborators using https://github.com/NewcastleRSE-Training/AddCollaborators
