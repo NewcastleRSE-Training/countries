@@ -2,4 +2,4 @@
 - Population : 2
 - Capital: Jia
 - Signature Dish: Tofu Xin Ramen
-- Neighbours: Dosen't have one
+- Neighbours: Doesn't have one
