@@ -1,3 +1,3 @@
 # Timbo2
 - Capital: Duneshire
-- Population: 3.2 million
+- Population: 3.1 million
