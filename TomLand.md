@@ -1,7 +1,7 @@
 #TomLand
-- Capital
-- Population
-- Language
-- Currency
-- National sport
-- National dish
+- Capital - London
+- Population - 1 mil
+- Language - English
+- Currency - £
+- National sport - Triathlon
+- National dish - Pancakes
