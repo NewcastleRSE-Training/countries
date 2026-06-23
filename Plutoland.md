@@ -1,3 +1,3 @@
 #pluto land
--Population : 2
--Capital: Jia
+- Population : 2
+- Capital: Jia
