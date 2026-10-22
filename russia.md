@@ -1,0 +1,2 @@
+- Population: 150 million
+- Capital: Moscow

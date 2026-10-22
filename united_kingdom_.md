@@ -1,0 +1,2 @@
+- Population : 85 million
+- Capital: Ankara
