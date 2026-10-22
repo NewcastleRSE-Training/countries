@@ -1,0 +1,2 @@
+- Population : 65 million
+- Capital: London
