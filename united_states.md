@@ -1,2 +1,0 @@
-- Population : 328.2 million
-- Capital: Washington D.C.
