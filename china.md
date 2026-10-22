@@ -1,1 +1,1 @@
-
+current location: Earth
