@@ -1,0 +1,2 @@
+- Population : 3.1 million
+- Capital: Sarajevo
